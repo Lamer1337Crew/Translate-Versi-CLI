@@ -2,7 +2,7 @@
 
 
 </br>
-Thanx To Monkey B luffy & Berdendangc0de
+Thanx To All My Friends
 </br>
 # Installing
 git clone https://github.com/Lamer1337
